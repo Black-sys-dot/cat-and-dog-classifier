@@ -33,7 +33,7 @@ So, as the hardworking person I am, I tested it on like 4 examples from the trai
 <br>
 👨‍💻👨‍🎤Contributing (Wanna Help Out?):
 <br>
-Oooh, do whatever you want to do, but on your PC. Don't do anything here
+Oooh, do whatever you want to do, but on your PC. Don't do anything here. 
 <br>
 <br>
 🤫🧏‍♂️License (The Boring but Important Stuff):
