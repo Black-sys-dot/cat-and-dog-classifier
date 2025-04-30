@@ -38,6 +38,6 @@ Oooh, do whatever you want to do, but on your PC. Don't do anything here.
 <br>
 🤫🧏‍♂️License (The Boring but Important Stuff):
 <br>
-If you want to use this sht algorithm, you can. Just don’t blame me if it f**s up or somehow crashes your kernel or messes with you from behind (if this happens, just say "choke me daddy"). 
+If you want to use this shit algorithm, you can. Just don’t blame me if it f**s up or somehow crashes your kernel or messes with you from behind (if this happens, just say "choke me daddy"). 
 
 <!-- Briefly mention the license -->
