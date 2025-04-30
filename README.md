@@ -27,7 +27,7 @@ You can run this in Kaggle. Just add the cat-dog dataset, you dumbass.
 <br>
 Is it Cool? 😎:
 <br>
-I’d say it’s okay. It’s trained on like 500 examples, I think, because I built it many days ago, and now I’m writing this README. I know, right? Super hardworking.
+I’d say it’s okay. It’s trained on like 500 examples, I think, because I built it many days ago, and now I’m writing this README. Super hardworking, I know right. 
 So, as the hardworking person I am, I tested it on like 4 examples from the training set (I guess). Pretty sure I didn’t test it on the test set though, but who knows? 🤷‍♂️ So yeah, that’s where we’re at. Go figure.
 <br>
 <br>
